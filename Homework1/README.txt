@@ -1,3 +1,5 @@
+Basic ray tracer program.
+
 This folder contains sample scene files in XML format and their
 expected outputs. These are stored in "hw1_sample_scenes" and
 "hw1_sample_outputs" folders, respectively.
