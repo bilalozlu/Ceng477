@@ -1,4 +1,4 @@
-Basic ray tracer program.
+-Basic ray tracer program.
 
 This folder contains sample scene files in XML format and their
 expected outputs. These are stored in "hw1_sample_scenes" and
@@ -7,15 +7,9 @@ expected outputs. These are stored in "hw1_sample_scenes" and
 The source codes demonstrate how you can read an XML file and
 save your output image in PPM format.
 
-Compilation
------------
-Just type "make" and it should produce an executable called "main"
+Just type "make all" and it should produce an executable called "raytracer"
 
-Usage
------
 An example usage is shown below:
+    ./raytracer hw1_sample_scenes/simple.xml test_pattern.ppm
 
-    ./main hw1_sample_scenes/simple.xml test_pattern.ppm
-
-You can use all or parts of the source code files in this folder
-when implementing your homeworks.
+-Bilal Özlü & Murat Kara
