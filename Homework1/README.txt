@@ -1,4 +1,4 @@
--Basic ray tracer program.
+-Basic ray tracer program by Bilal Özlü & Murat Kara.
 
 This folder contains sample scene files in XML format and their
 expected outputs. These are stored in "hw1_sample_scenes" and
@@ -11,5 +11,3 @@ Just type "make all" and it should produce an executable called "raytracer"
 
 An example usage is shown below:
     ./raytracer hw1_sample_scenes/simple.xml test_pattern.ppm
-
--Bilal Özlü & Murat Kara
